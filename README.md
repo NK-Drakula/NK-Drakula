@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @NK-Drakula
-- 👀 I’m interested in becoming a full stack developer
+- 👋 Hi, I’m Emmanuel Nkem
+- 👀 I’m a full stack developer
 - 💞️ I’m looking to collaborate 
 - 📫 How to reach me +2348076497448
 

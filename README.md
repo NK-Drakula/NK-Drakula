@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Emmanuel Nkem
 - 👀 I’m a full stack developer
-- 💞️ I’m looking to collaborate 
 - 📫 How to reach me +2348076497448
 
 <!---
